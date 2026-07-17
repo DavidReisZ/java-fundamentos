@@ -1,6 +1,6 @@
 package variaveis;
 
-public class nomeIdadeVariaveis {
+public class NomeIdadeVariaveis {
    public static void main(String[] args) {
         String Nome = "David";
         int idade = 20;
