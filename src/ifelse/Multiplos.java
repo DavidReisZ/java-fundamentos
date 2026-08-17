@@ -1,5 +1,5 @@
 package ifelse;
-import java.util.Scanner;;
+import java.util.Scanner;
 
 public class Multiplos {
     public static void main(String[] args) {
@@ -14,6 +14,6 @@ public class Multiplos {
         }else{
             System.out.println("Não são Multiplos");
         }
-        sc.close();;
+        sc.close();
     }
 }
