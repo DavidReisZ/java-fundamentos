@@ -28,7 +28,4 @@ if(meu.notaFinal() >= 60){
         }
 scanner.close();
     }
-
-
-
 }
